@@ -1,5 +1,16 @@
 # Mucic Player
 
+Um app de reprodução de áudio com a capacidade de executar arquivos locais e de uma nuvem(torrent?), além de acessar esta nuvem o usuário pode enviar seus arquivos de áudio locais para ter uma biblioteca sincronizada em diversos dispositivos. Os arquivos enviados para a nuvem são públicos e para uso de todos os usuários da mesma.
+
+
+### Repositórios relacionados
+
+* API: https://github.com/vineckb/music-player-api
+* Mobile APP: https://github.com/vineckb/music-player-mobile
+* Web APP: https://github.com/vineckb/music-player-webapp
+* CMS: https://github.com/vineckb/music-player-manager
+
+
 ## Roadmap
 
 ### Versão 1
