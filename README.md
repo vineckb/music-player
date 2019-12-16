@@ -8,7 +8,6 @@ Um app de reprodução de áudio com a capacidade de executar arquivos locais e 
 * API: https://github.com/vineckb/music-player-api
 * Mobile APP: https://github.com/vineckb/music-player-mobile
 * Web APP: https://github.com/vineckb/music-player-webapp
-* CMS: https://github.com/vineckb/music-player-manager
 * Landing page: https://github.com/vineckb/music-player-landing
 
 ## Roadmap
